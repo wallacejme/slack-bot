@@ -1,0 +1,6 @@
+# Copy the "Bot User OAuth Access Token" under the "OAuth & Permissions" sidebar
+slack_bot_token: "your_slack_bot_token"
+
+# Navigate to the "Basic Information" page from your app management page.
+# Under "App Credentials", copy the value for "Signing Secret".
+slack_signing_secret: "your_slack_signing_secret"
