@@ -18,5 +18,5 @@ Edit it to match your slack app credentials.
 
 ## Usage
 ```
-python slackbot.py (-c|--channel) CHANNEL MESSAGE
+python slackbot.py (-c | --channel) CHANNEL MESSAGE
 ```
