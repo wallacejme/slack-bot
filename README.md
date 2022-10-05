@@ -1,4 +1,4 @@
-# slack-bot
+# Slackbot
 A python bot that posts messages to Slack channels
 
 ## Setup
