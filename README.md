@@ -9,7 +9,7 @@ pip install -Ur requirements.txt
 ```
 
 #### Ajust configurations
-Create a `config.yaml` file by creating a copy of `config.TEMPLATE.yaml`. Edit it to match your slack app credentials.
+Create a `config.yaml` file by making a copy of `config.TEMPLATE.yaml`. Edit it to match your **slack app credentials**.
 ```
 cp config.TEMPLATE.yaml config.yaml
 ```
